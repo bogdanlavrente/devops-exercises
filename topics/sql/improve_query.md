@@ -12,7 +12,7 @@ WHERE
 SELECT COUNT(*)
 FROM shawarma_purchases
 WHERE YEAR(purchased_at) = 2017;
-
+'''
 or
 
 SELECT COUNT(*)
